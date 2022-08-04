@@ -1,8 +1,6 @@
 #coding=utf-8
 '''
 Created on Sep 5, 2021
-
-@author: Yongkang Liu
 '''
 import numpy  as np
 import math
