@@ -1,7 +1,11 @@
-### 522Zero-shot Dialog Generation
+### Zero-shot Dialog Generation
 
 ### Datasets
-The multilingual versions datasets of DailyDialog and DSTC7, which includes seven languages: English, Chinese, German, Russian, Spanish, French and Italian.
+The multilingual versions datasets of DailyDialog and DSTC7, which includes seven languages: English, Chinese, German, Russian, Spanish, French and Italian.  You can download the dataset from the following link:   
+
+[MultilingualDatasets](https://drive.google.com/file/d/1oohBMzoPlWBLjjGuLQBuN8Xk84NGHWic/view)
+
+
 ### Models
 We provide hred, vhcr, vhred, hran, transformer and HTransformer Baselines, our manuscript only provides the experimental results of hred, vhred, transformer and HTransformer.
 
